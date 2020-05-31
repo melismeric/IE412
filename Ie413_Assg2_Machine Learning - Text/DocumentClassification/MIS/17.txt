@@ -1,0 +1,2 @@
+Computer Hardware and System Software (3+1+0) 3 ECTS 6
+Representation of data in computing. Study of computer hardware, including the organization of CPU and memory, peripheral devices. Study of system software, including operating system functions such as memory management, file management and scheduling.

@@ -1,0 +1,2 @@
+Database Systems (3+0+2) 4 ECTS 6
+Architecture of databases, data presentation and data models, logical level, storage structures and access techniques. Normalization, functional dependency, data independence, database integrity, constraint assertion, data dictionary and directory. Bachman and ER diagrams. Semantic Net representation. A comparison of database approaches. Object oriented databases. Text databases and hypertext.

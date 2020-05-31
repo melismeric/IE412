@@ -1,0 +1,2 @@
+Quantitative Analysis for Decision Making (3+1+0) 3 ECTS 5
+Selected mathematical tools and techniques for analysis of business and economic problems as an aid to decision-making in management. Models and applications related to decision theory, linear programming, queuing, network analysis, planning and scheduling, simulation and other standard concepts. Usage of computer packages related to the discussed topics.

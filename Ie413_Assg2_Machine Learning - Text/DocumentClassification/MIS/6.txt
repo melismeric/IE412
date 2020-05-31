@@ -1,0 +1,2 @@
+Introduction to Algorithms and Programming  (3+0+2) 4 ECTS 6
+Basic properties of algorithms. Flowcharts and pseudocode. Decision making, iteration,  modular design. Principles of problem solving with an algorithmic approach and  implementation of the concepts through a programming language; built-in data types, basic I/O structures, control structures, functions, arrays, and recursion. An introduction to object oriented programming.

@@ -1,0 +1,4 @@
+Applied Ethics (3+0+0) 3 ECTS 6
+Philosophical analysis of contemporary moral issues, such as abortion, euthanasia, affirmative action, the ethics of charity, animal rights, moral justification of war.
+Special Topics in Logic (3+0+0) 3 ECTS 6
+Selected topics on modal logic and Kripke semantics, tense logic, tensed modalities, epistemic logic, free logic, logic of existence, intuitionistic logic, Lesniewsky's mereology, philosophical grammar and formal semantics.

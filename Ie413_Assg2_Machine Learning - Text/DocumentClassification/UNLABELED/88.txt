@@ -1,0 +1,4 @@
+Ethical Issues in Computing (3+0+0) 3 ECTS 5
+Introduction to ethical issues related to computer-based information systems: accessibility and censorship; security and privacy; intellectual property: copyrights and plagiarism; the digital divide. Professional and ethical responsibilities of Information Technology (IT) users; sensitivity to end-user needs.
+Human Factors in Computing  (3+0+0) 3 ECTS 6
+Understanding the effects of the human factors in developing and operating the information systems. Practical issues encountered in man-machine interaction and user-interface design. Current trends in the development of man-machine interaction technologies.

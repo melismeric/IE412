@@ -1,0 +1,2 @@
+Object Oriented Programming   (3+0+2) 4 ECTS 6
+Fundamentals of object oriented programming; objects, data abstraction, data encapsulation, inheritance, and polymorphism. Exception handling. Graphical user interface programming. Database connection. Multithreading. Program development with object oriented design.

@@ -1,0 +1,2 @@
+Elementary Set Theory (3+0+0) 3 ECTS 6
+Algebra of sets, algebra of relations, order relations, equivalence relations, mathematical induction, power sets, cardinality; mathematical structures such as Boolean algebras, groups, homomorphisms and isomorphism of structures, Zermelo-Fraenkel axioms for sets.

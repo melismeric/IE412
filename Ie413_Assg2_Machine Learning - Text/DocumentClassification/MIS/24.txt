@@ -1,0 +1,2 @@
+Business Application Development (1+0+2) 2 ECTS 5
+Development of a business application as a group project. Software implementation and maintenance, coding, testing, verification and validation. Software performance metrics. Excellence in business applications.

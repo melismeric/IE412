@@ -1,0 +1,2 @@
+Business Data Communications (3+0+0) 3 ECTS 6
+Introduction to the use of data communications in the business environment. The relationships of data communications and management information systems. The hardware and techniques used to transmit data as well as the design of communication networks are emphasized. The organizational aspects of managing networks and the security requirements and controls that are necessary are also covered

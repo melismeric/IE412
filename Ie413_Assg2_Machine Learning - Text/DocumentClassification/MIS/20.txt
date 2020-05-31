@@ -1,0 +1,2 @@
+Systems Analysis and Design (3+1+0) 3 ECTS 6
+Systems development life cycle. Systems analysis; identifying problems. determining and analyzing information requirements. Systems design; output, input, file, database, user interface, data-entry procedures and software design. Systems development; project management, costs, programming, testing and documentation. Systems implementation and evaluation.

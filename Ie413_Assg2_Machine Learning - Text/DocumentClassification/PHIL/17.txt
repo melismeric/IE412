@@ -1,0 +1,2 @@
+Philosophy of Logic (3+0+0) 3 ECTS 6
+Philosophical questions concerning first-order and second-order predicate logic, propositional logic and modal logic. Ontological presuppositions of different logical systems, justification of primitive inference rules and informativeness of logical propositions.

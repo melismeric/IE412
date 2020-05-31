@@ -1,0 +1,2 @@
+Advanced Logic I (3+0+0) 3 ECTS 6
+ZF axioms for set theory, axiom of choice, well ordering, ordinal numbers, cardinal numbers, GCH, ultraproducts. Deduction theorem, completeness theorem, compactness theorem, non-standard models of arithmetic, elementary structures, chains.

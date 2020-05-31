@@ -1,0 +1,2 @@
+Web Based Application Programming  (3+0+2) 4 ECTS 6
+Basic concepts of visual and event-oriented programming. Topics in client-site programming with a scripting language. DOM, XML and Ajax. Server-site programming techniques. Web Services. Implementation of applications using current languages.

@@ -1,0 +1,2 @@
+Object Oriented Modeling (3+2+0) 3 ECTS 5
+Introduction to object oriented modeling. Object-oriented analysis and design process and comparison of methods. Overview of United Modeling Language (UML), modeling with UML diagrams. Evaluating an object-oriented design. Introduction to application frameworks and design patterns. Discussion of modeling using UML in lab sessions.

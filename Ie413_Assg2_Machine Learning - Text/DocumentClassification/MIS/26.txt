@@ -1,0 +1,2 @@
+Enterprise Information Systems (2+0+2) 3 ECTS  6
+Fundamentals of Enterprise Information Systems (EIS). Business aspects of EIS: business functions, business organizations, business processes. Technological aspects of EIS: hardware platforms, operating system platforms, enterprise software applications, data management and storage, telecommunications platforms, consulting and system integration services. EIS implementation: life cycles, EIS project management. Practical applications by using an EIS software package.

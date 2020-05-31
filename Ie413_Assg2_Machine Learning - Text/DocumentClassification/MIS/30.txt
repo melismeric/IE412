@@ -1,0 +1,11 @@
+Decision Support Systems for Business (3+2+0) 3 ECTS 6
+Rational decision making and appropriate data support, components of Decision Support Systems (DSS): data, information, databases, DBMS, knowledgebase, datawarehouses, Rulebase/ModelBase. Expert systems mechanism and certainty factors, system dynamics and simulation, group DSS, executive information systems, user-interface components. Designing, implementation and evaluation of DSS.
+Simulation Modeling and Analysis (3+0+1) 4 ECTS 5
+Basic concepts of discrete-event simulation modeling. Simulation languages. Input data analysis, selecting the input probability distribution, goodness-of-fit tests. Generating random variables. Modeling and analysis applications using a simulation software. Output analysis for terminating and steady state simulations.
+Applied Research in MIS (3+0+1) 4 ECTS 5
+The design and implementation of quantitative and qualitative research. Analysis of data through the use of statistical software packages.
+Prerequisite: MIS 224.
+Knowledge Management (3+0+1) 4 ECTS 5
+Concepts of organizational knowledge and knowledge organizations. Dimensions and processes of knowledge management and organizational memory. Creating knowledge: Learning, experimentation, discovery and innovation. Knowledge transformations between explicit knowledge and tacit knowledge. Development of organizational knowledge management policies. Techniques of information and knowledge mapping. Applying innovative information technology. Knowledge markets and knowledge managers. Managing virtual organizations. Knowledge and innovation management. Case studies and applications.
+Systems Dynamic Modeling (3+0+1) 4
+Structure and behavior of complex dynamic systems. Tools for system thinking and model building. Causality diagramming. Formulating linear and non-linear relationships. Negative and positive feedback loops. Flows and stocks. S-shaped growth. Validation and verification of models. Applications to real life cases.

@@ -1,0 +1,8 @@
+Introduction to Ancient and Medieval Philosophy (3+0+0) 3 ECTS 6
+The evolution of philosophy from its beginning in ancient Greece till the end of the medieval period.
+Introduction to Modern Philosophy (3+0+0) 3 ECTS 6
+The evolution of modern philosophy from Descartes up to the present.
+Logic I (4+1+0) 4 ECTS 8
+Propositional logic and first-order monadic quantifier calculus.
+Logic II (4+1+0) 4 ECTS 8
+First-order quantifier calculus with identity and topics in metalogic.

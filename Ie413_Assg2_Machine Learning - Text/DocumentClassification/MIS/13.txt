@@ -1,0 +1,2 @@
+Statistics (3+2+0) 3 ECTS 6
+Descriptive statistics; graphical and numerical methods. Basics of probability, discrete and continuous distributions. Sampling theory, interval estimation and hypothesis tests for single population. Applications using a statistical software package.

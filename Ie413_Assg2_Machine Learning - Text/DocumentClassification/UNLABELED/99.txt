@@ -1,0 +1,4 @@
+Integrated Marketing Communications  (3+0+0) 3 ECTS 5
+Examination of the integrated marketing communications mix. Design and management of marketing communication campaigns in the context of traditional, online, social, mobile and other digital media. Application of advertising, promotion, direct marketing and other marketing communication tools with an innovative outlook.
+Introduction to Business Applications of AI (3+0+2) 4 ECTS 5
+Introduction of the role and potential value of AI applications in business. Emphasis on the application of AI technology to aid in the solutions of problems facing the modern business. Representation and information processing techniques. Search, control, decision making, modeling, and prototyping. Usage of a current AI language as a programming tool.

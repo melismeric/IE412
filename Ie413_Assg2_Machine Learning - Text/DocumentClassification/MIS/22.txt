@@ -1,0 +1,2 @@
+Data Mining (3+2+0) 3 ECTS 5
+Methodology of knowledge discovery from databases. Data mining functionalities: association, classification, prediction and clustering. Various algorithms related to functionalities: decision tree classification, neural networks, Bayesian classification, regression, K-means clustering. Applications of these concepts and techniques to real world problems.

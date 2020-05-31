@@ -1,0 +1,2 @@
+Advanced Logic II (3+0+0) 3 ECTS 6
+Formal number theory, primitive recursive and recursive functions, arithmetization, MRDP theorem, Godel incompleteness theorems, recursive undecidability, Church's theorem, Turing machines, partial recursive functions, unsolvable problems, Kleene-Mostowski hierarchy, effective computability, decision problems.
